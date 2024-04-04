@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, Eda here! 👋
 
-<!--
-**farizeda/farizeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github! I'm Eda, just a IT student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like exploring different projects, into data analysis and machine learning at the moment 💕
+
+Currently a Machine Learning Corhort at Bangkit Academy 🥸
+
+## Let's Connect!
+
+I'm  open to new projects, sharing stuffs, or just having making new friends :D
+
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/farizeda/)
+  
+---
+
+Thanks for stopping by, hope you like my repos 👀
