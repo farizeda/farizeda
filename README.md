@@ -9,14 +9,10 @@ I like exploring different projects, into data analysis and machine learning at 
 Currently a Machine Learning Corhort at Bangkit Academy 🥸
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/farizeda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizeda&layout=compact&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farizeda&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farizeda&theme=dark)
+
 
 
 ## Let's Connect!
