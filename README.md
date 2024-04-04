@@ -8,7 +8,7 @@ I like exploring different projects, into data analysis and machine learning at 
 
 Currently a Machine Learning Corhort at Bangkit Academy 🥸
 
-### Github Statistic
+## Github Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizeda&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farizeda&theme=dark)
