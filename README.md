@@ -16,6 +16,9 @@ Currently a Machine Learning Corhort at Bangkit Academy 🥸
 </a>
 </p>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farizeda&show_icons=true&theme=radical)
+
+
 ## Let's Connect!
 
 I'm  open to new projects, sharing stuffs, or just having making new friends :D
